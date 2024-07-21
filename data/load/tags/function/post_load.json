@@ -1,5 +1,5 @@
 {
     "values": [
-        "#namespace:post_load"
+        "#onjoin:post_load"
     ]
 }

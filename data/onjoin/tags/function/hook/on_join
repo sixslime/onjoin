@@ -1,0 +1,11 @@
+> #onjoin:hook > on_join
+--------------------
+ ! when a [player] joins/re-joins the world.
+  @ tick
+--------------------
+ [AS] [AT] player : [type=player]
+--------------------
+ ...
+--------------------
+ - for general use.
+--------------------
