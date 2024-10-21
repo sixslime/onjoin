@@ -8,7 +8,7 @@ Add subscriber functions to the `#onjoin:hook/on_join` function tag.
 This tag will run AS and AT any player immediately when they join the game.
 
 ## Example
-### Make players say "I've joined the game!" and play a sound when they join the game:  
+#### Make players say "I've joined the game!" and play a sound when they join the game:  
 *\<your datapack\>/data/onjoin/tags/function/hook/on_join.json*
 ```json
 {
