@@ -1,5 +1,5 @@
 # On Join | onjoin
-> Hook that triggers when a player joins the game.
+Simply implemented hook that triggers when a player joins the game. 
 ### Dependencies
 (None)
 
