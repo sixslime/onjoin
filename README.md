@@ -1,10 +1,10 @@
 # On Join | onjoin
-Provides a single hook that executes as a player when they join the game.
+> Provides a single hook that triggers when a player joins the game.
 ### Dependencies
 (None)
 
 # Usage
-Add subscriber functions to the `#onjoin:hook/on_join` function tag.
+Add subscriber functions to the `#onjoin:hook/on_join` function tag.  
 This tag will run AS and AT any player immediately when they join the game.
 
 ## Example
