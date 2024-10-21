@@ -22,3 +22,9 @@ This tag will run AS and AT any player immediately when they join the game.
 say I've joined the game!
 playsound block.note_block.bell player @a ~ ~ ~ 1 1 0.5
 ```
+
+___
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sixslime/sixslime.github.io/refs/heads/main/info/logos/temporary_documentation.svg" width="75%" alt="Temporary Documentation Tag"/>
+</p>
