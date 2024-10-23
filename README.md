@@ -10,7 +10,7 @@ This tag will run AS and AT any player immediately when they join the game.
 ## Example
 Makes players say "I've joined the game!" and play a sound when they join the game:
 
-`data/onjoin/tags/function/hook/on_join.json`:
+`<datapack>/data/onjoin/tags/function/hook/on_join.json`:
 ```json
 {
     "values": [
