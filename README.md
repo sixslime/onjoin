@@ -19,7 +19,7 @@ Makes players say "I've joined the game!" and play a sound when they join the ga
 }
 ```
 
-`data/mypack/function/\_/my\_subscriber.mcfunction`:
+`mypack:_/my_subscriber`:
 ```mcfunction
 say I've joined the game!
 playsound block.note_block.bell player @a ~ ~ ~ 1 1 0.5
@@ -28,5 +28,5 @@ playsound block.note_block.bell player @a ~ ~ ~ 1 1 0.5
 ___
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sixslime/sixslime.github.io/refs/heads/main/info/logos/temporary_documentation.svg" width="75%" alt="Temporary Documentation Tag"/>
+  <img src="https://sixslime.github.io/info/logos/temporary_documentation.svg" width="75%" alt="Temporary Documentation Tag"/>
 </p>
