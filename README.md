@@ -1,5 +1,5 @@
 # On Join | onjoin
-> A hook that triggers when a player joins the game. 
+> Single hook that triggers when a player joins the game. 
 ### Dependencies
 - [load](https://github.com/sixslime/load)
 
